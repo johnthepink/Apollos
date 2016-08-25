@@ -5,7 +5,7 @@ App.info({
   author: "NewSpring Church",
   email: "web@newspring.cc",
   website: "https://newspring.cc",
-  version: "1.0.0",
+  version: "5.0.0",
   buildNumber: "1"
 });
 
